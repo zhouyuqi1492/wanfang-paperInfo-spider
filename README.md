@@ -1,4 +1,4 @@
-# wanfang-paperInfo-crawler
+# wanfang-paperInfo-spider
 本程序为基于selenium的万方论文信息爬虫。
 
 **config.conf**为配置文件，其中包含了搜索关键词，搜索模式，资源类型，每页资源数。
